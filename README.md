@@ -10,7 +10,7 @@ To build the API UI use following command:
 $ redoc-cli bundle ./api/animals-spec.yaml -o animals-api-doc.html 
 ```
 
-The live demo can be found <a href="stepanov.github.io/docs/animals-api.html">here</a>.
+The live demo can be found <a href="https://stepanov.github.io/animals-api/animals-api.html">here</a>.
 
 ## Database schema
 
